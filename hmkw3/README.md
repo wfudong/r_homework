@@ -16,4 +16,4 @@ please don't use any `<blink>`tags
 <p><code>&amp;#8212;</code> is the decimal-encoded equivalent of <code>&amp;mdash;</code>.</p>
 
 
-![Alt text](/home/wfudong/Pictures/Screenshot from 2013-11-05 20:51:23.png)
+![Alt text](https://github.com/wfudong/r_homework/blob/master/hmkw3/Screenshot%20from%202013-11-05%2020:51:23.png)
