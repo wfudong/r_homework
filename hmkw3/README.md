@@ -1,19 +1,7 @@
 ==
 笔记
 ==
-#代码框测试
-<p>～sudo su ~ 不知道行不行</p>
+- 如何用`lm()`产生复相关系数
+ `R2=summary(lmfunction)$r.sq`
 
-呵呵
-use the `printf()`function
-
-``there is a litearal backtick (`) here .``
-
-please don't use any `<blink>`tags
-
-
-
-<p><code>&amp;#8212;</code> is the decimal-encoded equivalent of <code>&amp;mdash;</code>.</p>
-
-
-![Alt text](https://github.com/wfudong/r_homework/blob/master/hmkw3/Screenshot%20from%202013-11-05%2020:51:23.png)
+ `R=sqrt(R2)`
