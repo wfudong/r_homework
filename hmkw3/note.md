@@ -9,4 +9,8 @@
 
 呵呵
 `````
+use the `printf()`function
 
+``there is a litearal backtick (`) here .``
+
+please don't use any `<blink>`tags
